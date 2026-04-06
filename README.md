@@ -57,7 +57,6 @@ Each device implements core functionality
 
 ---
 
-## 📁 Project Structure
 
 ## 📂 Project Structure
 ```
@@ -76,15 +75,23 @@ Nestify/
 │ ├── Main.java
 ```
 
-## ▶️ Getting Started
-
-### Prerequisites
-- Java 8+
-
-### Run the Project
-```bash
-javac Main.java
-java Main
+---
+## 📈 Future Improvements
+- Add support for more device types  
+- Introduce event-driven architecture  
+- Add persistence for device states  
+- Build REST APIs for remote control  
 
 ---
+
+## 💡 Key Learnings
+- Applying SOLID principles in real systems  
+- Designing scalable architectures  
+- Using design patterns effectively  
+- Writing maintainable Java code  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome. Fork the repository and submit a pull request.
 
